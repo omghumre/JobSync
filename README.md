@@ -1,5 +1,9 @@
 # Company Recommendation Platform - "JobSync : Find your Dream Company"
 
+## Access the Application
+
+You can access the live application by visiting [JobSync Streamlit App](https://jobsync.streamlit.app). Simply follow the link to explore the platform, upload your resume, and receive personalized company recommendations.
+
 ## Hackathon Recognition
 
 This project achieved remarkable success at the **HackNITR hackathon at NIT Rourkela**, securing a position in the prestigious **top 10**. The acknowledgment reflects its innovation and utility in assisting job seekers to find their dream companies.
@@ -48,8 +52,10 @@ This project is a company recommendation platform developed during the same hack
 
 ## Contributors
 
-- [Your Name]
-- [Other Team Members]
+- Om Ghumre
+- A Chandra Kishan Singha
+- Anushka Mahule
+- Mahima Yadav
 
 Feel free to contribute to the project by improving the code, adding new features, or providing feedback.
 
