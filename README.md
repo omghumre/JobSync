@@ -1,4 +1,4 @@
-# Company Recommendation Platform - "JobSync:Find your Dream Company"
+# Company Recommendation Platform - "JobSync : Find your Dream Company"
 
 ## Hackathon Recognition
 
