@@ -1,13 +1,13 @@
 import streamlit as st
-import pickle
+import joblib
 import re
 import nltk
 import pandas as pd
 nltk.download('punkt')
 nltk.download('stopwords')
 
-clf = pickle.load(open('clf.pkl','rb'))
-tfidfd = pickle.load(open('tfidf.pkl','rb'))
+clf = joblib.load(open('clf.joblib','rb'))
+tfidfd = joblib.load(open('tfidf.joblib','rb'))
 
 def cleanResume(txt):
     cleanText = re.sub('http\S+\s', ' ', txt)
