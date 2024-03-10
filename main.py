@@ -19,7 +19,7 @@ def cleanResume(txt):
     cleanText = re.sub('\s+', ' ', cleanText)
     return cleanText
 def main():
-    st.title("Resume Screening")
+    st.title("Find your dream Company")
     uploaded_file = st.file_uploader('Upload Resume', type=['txt','pdf'])
     if uploaded_file is not None:
         try:
