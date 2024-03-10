@@ -1,8 +1,12 @@
 # Company Recommendation Platform - "JobSync:Find your Dream Company"
 
+## Hackathon Recognition
+
+This project achieved remarkable success at the **HackNITR hackathon at NIT Rourkela**, securing a position in the prestigious **top 10**. The acknowledgment reflects its innovation and utility in assisting job seekers to find their dream companies.
+
 ## Overview
 
-This project is a company recommendation platform developed during the HackNITR hackathon at NIT Rourkela. The platform assists users in finding suitable companies to apply to based on the content of their resumes. By analyzing the provided resume, the system predicts the user's potential job category and suggests a list of companies associated with that category.
+This project is a company recommendation platform developed during the same hackathon. The platform assists users in finding suitable companies to apply to based on the content of their resumes. By analyzing the provided resume, the system predicts the user's potential job category and suggests a list of companies associated with that category.
 
 ## Features
 
@@ -41,10 +45,6 @@ This project is a company recommendation platform developed during the HackNITR 
     ```
 
 3. Access the application through the provided URL and upload your resume to receive personalized company recommendations.
-
-## Acknowledgments
-
-This project was shortlisted in the top 10 at the HackNITR hackathon, showcasing its innovation and utility in helping job seekers find their dream companies.
 
 ## Contributors
 
